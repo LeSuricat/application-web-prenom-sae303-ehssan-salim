@@ -1,0 +1,24 @@
+
+.rechercher{
+    text-align: center;
+}
+
+.titre-graphique{
+    color: rgb(228, 6, 6);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 1rem;
+    font-weight: bold;
+    
+}
+
+.graphe{
+    width: 877px; 
+    height: 500px; 
+    padding-top: 0.5rem; 
+    padding-left: 15rem;
+}
+
+.container0 {
+    text-align: center;
+}
